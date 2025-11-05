@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+c-unplugged
+*.o
+*.out
+*.exe
+
+# Data files (generated at runtime)
+data/albums.dat
+data/command_history.log
+
+# Editor/IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
