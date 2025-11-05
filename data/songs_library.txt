@@ -1,0 +1,11 @@
+# Song Library - Format: song_id|title|artist|album_name|duration|file_path
+1|Bohemian Rhapsody|Queen|A Night at the Opera|5:55|/music/queen/bohemian_rhapsody.mp3
+2|Stairway to Heaven|Led Zeppelin|Led Zeppelin IV|8:02|/music/led_zeppelin/stairway_to_heaven.mp3
+3|Imagine|John Lennon|Imagine|3:03|/music/john_lennon/imagine.mp3
+4|Hotel California|Eagles|Hotel California|6:30|/music/eagles/hotel_california.mp3
+5|Smells Like Teen Spirit|Nirvana|Nevermind|5:01|/music/nirvana/smells_like_teen_spirit.mp3
+6|Sweet Child O' Mine|Guns N' Roses|Appetite for Destruction|5:56|/music/guns_n_roses/sweet_child_o_mine.mp3
+7|Billie Jean|Michael Jackson|Thriller|4:54|/music/michael_jackson/billie_jean.mp3
+8|Like a Rolling Stone|Bob Dylan|Highway 61 Revisited|6:13|/music/bob_dylan/like_a_rolling_stone.mp3
+9|Hey Jude|The Beatles|The Beatles|7:11|/music/the_beatles/hey_jude.mp3
+10|Purple Haze|Jimi Hendrix|Are You Experienced|2:50|/music/jimi_hendrix/purple_haze.mp3
